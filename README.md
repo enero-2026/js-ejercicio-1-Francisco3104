@@ -37,3 +37,5 @@ Archivo HTML
 Archivo CSS
 Archivo JS
 Breve explicación (README.md) de cómo funciona tu app y qué mejoras implementaste con IA
+Explicacion:
+La app agrega tareas y las pone en display en una lista utilizando el elemento ul, e insertando elementos li a traves de javascript, el form en donde se agregar nos los modelos es un modal que solo es visible al darle click al boton de agregar, al intentar agregar una tarea, se checa si el campo de titulo esta lleno si no no se deja agregar una tarea y se muestra un popup. Finalmente, el contador funciona checando cuantas tareas tienen la tag de "To-Do" subiendo o reduciendo este contador segun se cambia el tag o se eliminan las tareas.
